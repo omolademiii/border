@@ -1,0 +1,36 @@
+body{
+    background-color: white;
+}
+.start{
+    margin-top: 20px;
+    padding: 5px 10px;
+    border: 2px solid;
+}
+.mid{
+    margin-top: 20px;
+    padding: 5px 10px;
+    border: 2px solid;
+}
+.end{
+    margin-top: 20px;
+    padding: 5px 10px;
+    border: 2px solid;
+}
+
+h1{
+    font-size: 18px;
+}
+
+p{
+    font-size: 14px;
+    color: green;
+
+}
+.edit{
+    font-size: 14px;
+    color: red;
+}
+.color{
+    font-size: 14px;
+    color: blue;
+}
